@@ -1,4 +1,4 @@
-ngrok_authtoken: 23rG6Pk5nPdctalhFJnCaOevCGg_5MUxr1dNmXE43Lnh7cH8h
+ngrok_authtoken: 2XTHV7tVBsb1gsKhunAmtK5onNW_7hfFz5KgTdw4KcCqF8TR1
 ngrok_region: ap
 password: khanhnguyen
 
