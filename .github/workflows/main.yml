@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install VNC Ubuntu-22.04
+      - name: Install VNC Ubuntu-latest
         run: |
           printf "\n Preparing....\n\n"
           sudo apt update -y > /dev/null 2>&1
